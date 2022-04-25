@@ -6,7 +6,6 @@ setup(
     packages=find_packages(include=['python_package', 'python_package.*']),
     install_requires=[
         'PyYAML',
-        'pandas==0.23.3',
-        'numpy>=1.14.5'
+        'requests==2.7.0'
     ],
 )
