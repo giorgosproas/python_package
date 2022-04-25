@@ -6,6 +6,6 @@ setup(
     packages=find_packages(include=['python_package', 'python_package.*']),
     install_requires=[
         'PyYAML',
-        'requests==2.7.0'
+        'requests==2.17.0'
     ],
 )
