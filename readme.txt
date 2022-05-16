@@ -1,0 +1,1 @@
+pip install git+https://github.com/giorgosproas/python_package
